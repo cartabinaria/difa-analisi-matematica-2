@@ -1,4 +1,4 @@
-# \<Insegnamento\>
+# Analisi Matematica 2
 
 Una raccolta di risorse per l'insegnamento di Analisi Matematica 2 del Corso di
 Laurea in Fisica. Ulteriori informazioni sono disponibili sulla
